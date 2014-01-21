@@ -1,6 +1,6 @@
 **jason is a simple JSON reader/writer for PHP.**
 
-https://github.com/mynetx/jason
+https://github.com/jublonet/jason
 
 ---
 

@@ -2,7 +2,7 @@
 
 /**
  * jason is a simple JSON reader/writer for PHP.
- * Copyright (C) 2012 mynetx.
+ * Copyright (C) 2012-2014 Jublo IT Solutions <support@jublo.net>.
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as
